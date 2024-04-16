@@ -5,8 +5,8 @@
 package sm
 
 import (
-	"github.com/fiorix/go-diameter/v4/diam"
-	"github.com/fiorix/go-diameter/v4/diam/sm/smparser"
+	"github.com/MHG14/go-diameter/v4/diam"
+	"github.com/MHG14/go-diameter/v4/diam/sm/smparser"
 )
 
 var dwaACK = struct{}{}

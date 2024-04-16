@@ -8,12 +8,12 @@ import (
 	"sync"
 	"time"
 
-	"github.com/fiorix/go-diameter/v4/diam"
-	"github.com/fiorix/go-diameter/v4/diam/avp"
-	"github.com/fiorix/go-diameter/v4/diam/datatype"
-	"github.com/fiorix/go-diameter/v4/diam/dict"
-	"github.com/fiorix/go-diameter/v4/diam/sm"
-	"github.com/fiorix/go-diameter/v4/examples/s6a_proxy/protos"
+	"github.com/MHG14/go-diameter/v4/diam"
+	"github.com/MHG14/go-diameter/v4/diam/avp"
+	"github.com/MHG14/go-diameter/v4/diam/datatype"
+	"github.com/MHG14/go-diameter/v4/diam/dict"
+	"github.com/MHG14/go-diameter/v4/diam/sm"
+	"github.com/MHG14/go-diameter/v4/examples/s6a_proxy/protos"
 )
 
 const (

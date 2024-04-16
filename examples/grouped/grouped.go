@@ -10,10 +10,10 @@ import (
 	"bytes"
 	"log"
 
-	"github.com/fiorix/go-diameter/v4/diam"
-	"github.com/fiorix/go-diameter/v4/diam/avp"
-	"github.com/fiorix/go-diameter/v4/diam/datatype"
-	"github.com/fiorix/go-diameter/v4/diam/dict"
+	"github.com/MHG14/go-diameter/v4/diam"
+	"github.com/MHG14/go-diameter/v4/diam/avp"
+	"github.com/MHG14/go-diameter/v4/diam/datatype"
+	"github.com/MHG14/go-diameter/v4/diam/dict"
 )
 
 func main() {
