@@ -454,6 +454,7 @@ const (
 	PoCUserRole                                = 1252
 	PoCUserRoleIDs                             = 1253
 	PoCUserRoleinfoUnits                       = 1254
+	PolicyCounterIdentifier                    = 2901
 	PolicyCounterStatus                        = 2902
 	PolicyCounterStatusReport                  = 2903
 	PortLimit                                  = 62

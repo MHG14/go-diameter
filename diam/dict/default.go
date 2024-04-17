@@ -1125,6 +1125,11 @@ var diametersyXML = `<?xml version="1.0" encoding="UTF-8"?>
 		</avp>
 
 
+		<avp name="Policy-Counter-Identifier" code="2901" must="M,V" may="P" must-not="-" may-encrypt="-">
+			<data type="UTF8String"/>
+		</avp>
+
+
 		<avp name="Policy-Counter-Status" code="2902" must="M,V" may="P" must-not="-" may-encrypt="-">
 			<data type="UTF8String"/>
 		</avp>
